@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_google"
+        android:icon="@drawable/ic_google"
+        android:title="Google API"/>
+
+    <item
+        android:id="@+id/navigation_facebook"
+        android:icon="@drawable/ic_facebook"
+        android:title="Facebook API" />
+
+<!--    <item-->
+<!--        android:id="@+id/navigation_github"-->
+<!--        android:icon="@drawable/ic_github"-->
+<!--        android:title="Github API" />-->
+
+
+</menu>
